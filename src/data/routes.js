@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Dawei Yin - 印大为',
     path: '/',
   },
   {
