@@ -24,6 +24,11 @@ const routes = [
     label: 'Contact',
     path: '/contact',
   },
+  {
+    label: 'Docs',
+    external: true,
+    path: 'https://docs.davyin.tech/',
+  },
 ];
 
 export default routes;

@@ -1,13 +1,4 @@
-# Intro
-I am Dawei
+# Hi, I am Dawei
 
 # Currently
-
-XXXX
-
-# Some history
-
-XXXX
-
-# I like
-XXXX
+A cs master student
