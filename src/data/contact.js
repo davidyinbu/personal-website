@@ -14,18 +14,18 @@ const data = [
   {
     link: 'https://github.com/davidyinbu',
     label: 'Github',
-    icon: faGithub,
+    icon: faGithub
   },
   {
     link: 'https://www.linkedin.com/in/dawei-yin-b679b3203/',
     label: 'LinkedIn',
-    icon: faLinkedinIn,
+    icon: faLinkedinIn
   },
   {
     link: '',
     label: 'Weixin',
-    icon: faWeixin,
-  },
+    icon: faWeixin
+  }
 ];
 
 export default data;
