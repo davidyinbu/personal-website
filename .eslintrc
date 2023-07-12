@@ -8,8 +8,10 @@
   },
   "rules": {
 	"linebreak-style": ["error", "windows"],
+	"trailing-comma": false,
     "jsx-a11y/anchor-is-valid": ["error", {
       "components": ["Link"],
+	  
       "specialLink": ["to", "hrefLeft", "hrefRight"],
       "aspects": ["noHref", "invalidHref", "preferButton"]
     }],
